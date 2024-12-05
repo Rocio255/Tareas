@@ -76,7 +76,7 @@ body{
 #lista i:hover{
     color: #5079df;
 }
-#tachado {
+.tachado {
     text-decoration: line-through;
     color: var(--color-primario);
 }
